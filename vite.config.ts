@@ -8,3 +8,16 @@ export default defineConfig({
 		host: true
 	}
 });
+
+/**
+ * TODO: Instead of paths, use alias:
+ * https://kit.svelte.dev/docs/configuration#alias
+ * Also remove from tsconfig.json:
+ * 		"baseUrl": ".",
+ *		"paths": {
+ *			"$/*": ["./src/*"]
+ *		},
+ *		"types": ["svelte"]
+ *
+ *		"include": ["src", "vite.config.ts"],
+ * */

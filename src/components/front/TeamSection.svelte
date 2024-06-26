@@ -1,6 +1,12 @@
 <script>
 	import { ExternalLinkIcon } from 'svelte-feather-icons';
 	import Button from '../global/Button.svelte';
+
+	import pictureSoltani from '$/lib/assets/team/pictureSoltani.jpg';
+	import pictureBajrami from '$/lib/assets/team/pictureBajrami.jpg';
+	import pictureBataray from '$/lib/assets/team/pictureBataray.jpg';
+	import pictureKoch from '$/lib/assets/team/pictureBataray.jpg';
+	import pictureBuelbuel from '$/lib/assets/team/pictureBuelbuel.jpg';
 </script>
 
 <section class="bg-white dark:bg-gray-900">
@@ -22,7 +28,7 @@
 			<div class="block group md:col-span-2 lg:col-span-1">
 				<div class="relative mb-6">
 					<img
-						src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png"
+						src={pictureSoltani}
 						alt="Ali Soltani"
 						class="w-40 h-40 rounded-full mx-auto transition-all duration-500 object-cover border-4 border-solid border-transparent group-hover:border-blue-600 group-hover:shadow-xl"
 					/>
@@ -42,7 +48,7 @@
 			<div class="block group md:col-span-2 lg:col-span-1">
 				<div class="relative mb-6">
 					<img
-						src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png"
+						src={pictureBajrami}
 						alt="Besnik Bajrami"
 						class="w-40 h-40 rounded-full mx-auto transition-all duration-500 object-cover border-4 border-solid border-transparent group-hover:border-blue-600 group-hover:shadow-xl"
 					/>
@@ -62,7 +68,7 @@
 			<div class="group group md:col-span-2 lg:col-span-1">
 				<div class="relative mb-6">
 					<img
-						src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png"
+						src={pictureBataray}
 						alt="Abdullah Bataray"
 						class="w-40 h-40 rounded-full mx-auto transition-all duration-500 object-cover border-4 border-solid border-transparent group-hover:border-blue-600 group-hover:shadow-xl"
 					/>
@@ -82,7 +88,7 @@
 			<div class="group group md:col-span-2 lg:col-span-1">
 				<div class="relative mb-6">
 					<img
-						src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png"
+						src={pictureKoch}
 						alt="Alicem Bülbül"
 						class="w-40 h-40 rounded-full mx-auto transition-all duration-500 object-cover border-4 border-solid border-transparent group-hover:border-blue-600 group-hover:shadow-xl"
 					/>
