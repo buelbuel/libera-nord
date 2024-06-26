@@ -6,7 +6,7 @@
 	<h2 class="text-2xl text-center text-gray-600">Warum unsere Kunden uns vertrauen:</h2>
 	<ul
 		role="list"
-		class="divide-y divide-gray-100 max-w-2xl mx-auto p-6 my-8 bg-white rounded-lg shadow-xl"
+		class="divide-y divide-gray-100 max-w-2xl mx-auto p-6 my-8 bg-white rounded-none sm:rounded-lg shadow-xl"
 	>
 		{#each certifications as certification}
 			<li class="flex justify-between gap-x-6 py-5">

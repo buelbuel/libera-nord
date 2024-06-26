@@ -15,7 +15,10 @@
 </script>
 
 <div class="relative inline-block text-left" on:mouseenter={showMenu} on:mouseleave={hideMenu}>
-	<!-- TODO: Make DropdownMenu a reusable component -->
+	<!--
+        TODO: Make DropdownMenu a reusable component
+        TODO: Mobile Menu
+    -->
 	<div>
 		<button
 			type="button"
