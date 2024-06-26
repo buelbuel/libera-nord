@@ -3,7 +3,7 @@
 	let timeoutId: NodeJS.Timeout;
 
 	function showMenu() {
-		clearTimeout(timeoutId); // Clear any existing timeout
+		clearTimeout(timeoutId);
 		isOpen = true;
 	}
 
