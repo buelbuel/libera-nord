@@ -32,7 +32,7 @@
 				</h4>
 				<a
 					href="#"
-					class="flex flex-col items-center gap-4 text-gray-500 group-hover:text-gray-900 dark:hover:text-white"
+					class="flex flex-col text-center items-center gap-4 text-gray-500 group-hover:text-gray-900 dark:hover:text-white"
 					>Datenexperte spezialisiert auf Salesforce Core Clouds.
 					<ExternalLinkIcon />
 				</a>
@@ -52,7 +52,7 @@
 				</h4>
 				<a
 					href="#"
-					class="flex flex-col items-center gap-4 text-gray-500 group-hover:text-gray-900 dark:hover:text-white"
+					class="flex flex-col text-center items-center gap-4 text-gray-500 group-hover:text-gray-900 dark:hover:text-white"
 					>Experte für Salesforce Sales Cloud und Marketing Cloud.
 					<ExternalLinkIcon />
 				</a>
@@ -72,7 +72,7 @@
 				</h4>
 				<a
 					href="#"
-					class="flex flex-col items-center gap-4 text-gray-500 group-hover:text-gray-900 dark:hover:text-white"
+					class="flex flex-col text-center items-center gap-4 text-gray-500 group-hover:text-gray-900 dark:hover:text-white"
 					>Salesforce Technical Architect und Implementierungen.
 					<ExternalLinkIcon />
 				</a>
@@ -92,7 +92,7 @@
 				</h4>
 				<a
 					href="#"
-					class="flex flex-col items-center gap-4 text-gray-500 group-hover:text-gray-900 dark:hover:text-white"
+					class="flex flex-col text-center items-center gap-4 text-gray-500 group-hover:text-gray-900 dark:hover:text-white"
 					>Salesforce, HubSpot und Solution Design.
 					<ExternalLinkIcon />
 				</a>
