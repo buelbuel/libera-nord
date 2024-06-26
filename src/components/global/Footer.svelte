@@ -1,12 +1,12 @@
 <script type="ts">
-	import logo from '$lib/assets/logo.png';
+	import logo from '$lib/assets/libera_nord_logo_inv.png';
 </script>
 
 <footer class="dark:bg-white bg-gray-900">
 	<div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
 		<div class="md:flex md:justify-between">
 			<div class="mb-6 md:mb-0">
-				<a href="https://flowbite.com/" class="flex items-center">
+				<a href="/" class="flex items-center">
 					<img src={logo} class="h-24" alt="FlowBite Logo" />
 				</a>
 			</div>
@@ -15,7 +15,7 @@
 					<h2 class="mb-6 text-sm font-semibold dark:text-gray-900 uppercase text-white">Info</h2>
 					<ul class="dark:text-gray-500 text-gray-400 font-medium">
 						<li>
-							<a href="#" class="hover:underline">Über uns</a>
+							<a href="/team" class="hover:underline">Über uns</a>
 						</li>
 						<li>
 							<a href="#" class="hover:underline">Impressum</a>
@@ -49,7 +49,7 @@
 							<a href="#" class="hover:underline">Service Lightning</a>
 						</li>
 						<li>
-							<a href="#" class="hover:underline">Datenkonformität</a>
+							<a href="#" class="hover:underline">Web Development</a>
 						</li>
 						<li>
 							<a href="#" class="hover:underline">HubSpot</a>

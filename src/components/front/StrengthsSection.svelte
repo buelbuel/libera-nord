@@ -9,7 +9,7 @@
 		>
 			<div class="lg:pr-8 lg:pt-4">
 				<div class="lg:max-w-lg">
-					<h2 class="text-base font-semibold leading-7 text-indigo-600">Stärken</h2>
+					<h2 class="text-base font-semibold leading-7 text-blue-600">Stärken</h2>
 					<p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Warum wir</p>
 					<p class="mt-6 text-lg leading-8 text-gray-600">
 						Mit unserer Expertise bieten wir Ihnen innovative Lösungen, die Ihre Geschäftsprozesse
@@ -18,7 +18,7 @@
 					<dl class="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">
 						<div class="relative pl-9">
 							<dt class="inline font-semibold text-gray-900">
-								<span class="absolute left-1 top-1 h-5 w-5 text-indigo-600"><SendIcon /> </span>
+								<span class="absolute left-1 top-1 h-5 w-5 text-blue-600"><SendIcon /> </span>
 								Expertise.
 							</dt>
 							<dd class="inline">
@@ -28,7 +28,7 @@
 						<div class="relative pl-9">
 							<dt class="inline font-semibold text-gray-900">
 
-								<span class="absolute left-1 top-1 h-5 w-5 text-indigo-600"><AnchorIcon /> </span>
+								<span class="absolute left-1 top-1 h-5 w-5 text-blue-600"><AnchorIcon /> </span>
 								Kundenzentrierung.
 							</dt>
 							<dd class="inline">Maßgeschneiderte Lösungen. Langfristige Partnerschaften.</dd>
@@ -36,7 +36,7 @@
 						<div class="relative pl-9">
 							<dt class="inline font-semibold text-gray-900">
 
-								<span class="absolute left-1 top-1 h-5 w-5 text-indigo-600"><AwardIcon /> </span>
+								<span class="absolute left-1 top-1 h-5 w-5 text-blue-600"><AwardIcon /> </span>
 								Innovationskraft.
 							</dt>
 							<dd class="inline">
@@ -46,7 +46,7 @@
 						<div class="relative pl-9">
 							<dt class="inline font-semibold text-gray-900">
 
-								<span class="absolute left-1 top-1 h-5 w-5 text-indigo-600"><PlayIcon /> </span>
+								<span class="absolute left-1 top-1 h-5 w-5 text-blue-600"><PlayIcon /> </span>
 								Ergebnisorientierung.
 							</dt>
 							<dd class="inline">
